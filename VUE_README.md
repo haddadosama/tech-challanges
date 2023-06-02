@@ -43,6 +43,6 @@ Please submit a link to a Git repository containing your code. The repository sh
 3. A brief description of how you have structured your Vue.js application and why.
 4. Any challenges you faced and how you overcame them.
 
-You have 3 days to submit the completed project.
+You have 4 days to submit the completed project.
 
 Good luck!
